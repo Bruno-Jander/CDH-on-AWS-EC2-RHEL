@@ -1,3 +1,5 @@
+PREVIOUS: [Configuring EC2 instances on AWS](https://github.com/Bruno-Jander/CDH-on-AWS-EC2-RHEL/blob/81ae05cbe14b8c37eb7c711a37807e76ee02c044/Cloudera_CDH_on_AWS%20(Part%201).md)
+
 # Installing Cloudera CDH on AWS RHEL
 
 *Tip: you just need to install Cloudera manager on `Master`.*
@@ -41,5 +43,4 @@ sudo systemctl status cloudera-scm-server
 
 9) When logged in, you'll see a welcome page and two installation options (`Upload Cloudera Data Platform License` and `Try Cloudera Data Platform for 60 days`). Choose the one that suits you best;
 
-Continue
-[[Creating a Bare Metal cluster]]
+NEXT: [Creating a Bare Metal cluster](https://github.com/Bruno-Jander/CDH-on-AWS-EC2-RHEL/blob/db1f4a7c1736afdd86c490b49d3596e0437a70d8/Cloudera_CDH_on_AWS%20(Part%203).md)
