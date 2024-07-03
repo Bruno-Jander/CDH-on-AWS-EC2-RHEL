@@ -1,3 +1,5 @@
+## Configuring EC2 instances on AWS
+
 ## Creating a new EC2 instance (Master)
 
 1) On AWS portal, launch a new EC2 instance with the following configuration:
@@ -76,7 +78,7 @@ Launch instance
 | —                   | SSH     | TCP      | 22         | Custom   | 0.0.0.0/0 |
 | —                   | ALL TCP | TCP      | 0-65535    | Custom   | 0.0.0.0/0 |
 
-*Tip: remember not to do this in a production environment, just for testing purposes*
+*Tip: remember not to do this in a production environment, just for testing purposes.*
 
 Cloudera standard ports:
 
