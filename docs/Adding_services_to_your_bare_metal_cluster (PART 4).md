@@ -1,4 +1,4 @@
-PREVIOUS: [Creating a Bare Metal cluster](https://github.com/Bruno-Jander/CDH-on-AWS-EC2-RHEL/blob/a63519d421c81af3140b6ede9275e9ff0fd0f83f/Cloudera_CDH_on_AWS%20(Part%203).md)
+PREVIOUS: [Creating a Bare Metal cluster](https://github.com/Bruno-Jander/CDH-on-AWS-EC2-RHEL/blob/main/docs/Creating_a_bare_metal_cluster%20(PART%203).md)
 
 # Adding services to your Bare Metal Cluster
 
@@ -23,6 +23,6 @@ PREVIOUS: [Creating a Bare Metal cluster](https://github.com/Bruno-Jander/CDH-on
 
 7) The services addition configuration will end on the `Summary` page.
 
-- That's all folks! Enjoy your new CDH cluster! :)
+- That's all folks! Enjoy your new CDH cluster! (^///^)
 
 THE END

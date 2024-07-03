@@ -144,4 +144,4 @@ reboot
 getenforce
 ```
 
-NEXT: [[Installing Cloudera on AWS RHEL]](https://github.com/Bruno-Jander/CDH-on-AWS-EC2-RHEL/blob/e3483e2bea1d87f72650ddb75de786875e4b1edb/Cloudera_CDH_on_AWS%20(Part%202).md)
+NEXT: [Installing Cloudera on AWS RHEL](https://github.com/Bruno-Jander/CDH-on-AWS-EC2-RHEL/blob/main/docs/Installing_Cloudera_CDH_on_AWS_RHEL%20(PART%202).md)
