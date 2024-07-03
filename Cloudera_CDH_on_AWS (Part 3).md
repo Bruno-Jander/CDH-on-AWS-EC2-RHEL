@@ -1,4 +1,4 @@
-PREVIOUS: [Installing Cloudera CDH on AWS RHEL](https://github.com/Bruno-Jander/CDH-on-AWS-EC2-RHEL/blob/64ef5c6cf58a8982cd8c8c010ac172a1f7469260/Cloudera_CDH_on_AWS%20(Part%202).md)
+PREVIOUS: [Installing Cloudera CDH on AWS RHEL](https://github.com/Bruno-Jander/CDH-on-AWS-EC2-RHEL/blob/b63f4fd9e5f6a01b285fae5cbaf4270880ff47e5/Cloudera_CDH_on_AWS%20(Part%202).md)
 
 # Creating a Bare Metal cluster
 
@@ -25,4 +25,4 @@ PREVIOUS: [Installing Cloudera CDH on AWS RHEL](https://github.com/Bruno-Jander/
 
 8) On the last page,`Inspect Cluster`, you'll have to run two inspections:`Inspect Network Perfomance` and `Inspect Hosts`. After passing both checks, your cluster will be available. 
 
-NEXT: [Adding services to your Bare Metal Cluster]()
+NEXT: [Adding services to your Bare Metal Cluster](https://github.com/Bruno-Jander/CDH-on-AWS-EC2-RHEL/blob/b63f4fd9e5f6a01b285fae5cbaf4270880ff47e5/Cloudera_CDH_on_AWS%20(Part%204).md)
