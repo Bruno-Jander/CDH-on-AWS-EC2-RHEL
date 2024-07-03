@@ -1,4 +1,4 @@
-## Configuring EC2 instances on AWS
+# Configuring EC2 instances on AWS
 
 ## Creating a new EC2 instance (Master)
 
