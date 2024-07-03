@@ -1,4 +1,4 @@
-PREVIOUS: [Configuring EC2 instances on AWS](https://github.com/Bruno-Jander/CDH-on-AWS-EC2-RHEL/blob/81ae05cbe14b8c37eb7c711a37807e76ee02c044/Cloudera_CDH_on_AWS%20(Part%201).md)
+PREVIOUS: [Configuring EC2 instances on AWS](https://github.com/Bruno-Jander/CDH-on-AWS-EC2-RHEL/blob/2294379b13195e75d3e91a833a79666c2d07a5c9/Cloudera_CDH_on_AWS%20(Part%201).md)
 
 # Installing Cloudera CDH on AWS RHEL
 
